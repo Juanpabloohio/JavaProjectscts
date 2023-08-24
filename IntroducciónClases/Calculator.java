@@ -33,7 +33,7 @@ public class Calculator {
 		System.out.println(myCalculator.add(30,15));
 		System.out.println(myCalculator.substract(30,15));
 		System.out.println(myCalculator.multiply(30,15));
-	//	System.out.println(myCalculator.divide(30,15));
+		System.out.println(myCalculator.divide(30,15));
 
 		}
 }
